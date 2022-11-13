@@ -10,13 +10,5 @@ public class SettingTypes {
          short sixth = 1;
          int seventh = 129;
 
-        System.out.println(first);
-        System.out.println(second);
-        System.out.println(third);
-        System.out.println(forth);
-        System.out.println(fifth);
-        System.out.println(sixth);
-        System.out.println(seventh);
-
     }
 }
